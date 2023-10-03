@@ -1,4 +1,3 @@
--- 👋 Hi, I'm Marco Giordano!
 - 🏫 I'm studying at **ITIS Mario Delpozzo**
 - 👀 I’m interested in **Robotic**
 <!---
