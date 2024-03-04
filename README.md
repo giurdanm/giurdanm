@@ -1,3 +1,4 @@
+![Hi, I'm Marco!](immagine.png)
 - 🏫 I'm studying at **ITIS Mario Delpozzo**
 - 👀 I’m interested in **Robotic**
 <!---
